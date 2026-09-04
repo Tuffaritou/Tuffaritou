@@ -11,14 +11,3 @@ Idiomas:
 
 
 
-Redes Sociales:
-
-</a>
-
-<a href="https://www.instagram.com/facuuundito_/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
-    width="40"
-    alt="Instagram"
-  >
-</a>
