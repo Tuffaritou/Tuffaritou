@@ -10,6 +10,10 @@ Idiomas:
 
 
 Redes Sociales:
-https://davidsuescunpelegay.github.io/instagram-logo/
+<a href="https://www.instagram.com/TU_USUARIO/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
+       width="40"
+       alt="Instagram">
+</a>
 
 https://www.instagram.com/facuuundito_
