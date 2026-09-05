@@ -5,14 +5,8 @@
 ***Sobre mi***
 
 Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de Comunicación Multimedial, cursando el segundo año de la carrea, también se sobre edición de videos y audio, suelo tener ideas buenas sobre proyectos personales y me concentro mucho para llevarlos a cabo.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+
+- 📫 Mi mail de contacto: <a href="figueredofacuu123@gmail.com">figueredofacuu123@gmail.com</a>
 
 ## Mis Lenguajes (Nivel Básico)
 
