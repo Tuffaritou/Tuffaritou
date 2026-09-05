@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="" width="30px">&nbsp;***Sobre mi***
+***Sobre mi***
 
 Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de Comunicación Multimedial, cursando el segundo año de la carrea, también se sobre edición de videos y audio, suelo tener ideas buenas sobre proyectos personales y me concentro mucho para llevarlos a cabo.
 - 🌱 I’m currently learning ...
