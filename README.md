@@ -13,8 +13,10 @@ Conocimiento de programas de edición:
 Redes Sociales:
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
 https://www.instagram.com/facuuundito_
-[![My Skills](https://skillicons.dev/icons?i=tiktok)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bi bi-tiktok)](https://skillicons.dev)
 https://www.tiktok.com/@tuffaro_
 
 
