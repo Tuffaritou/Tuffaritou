@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de Comunicación Multimedial, cursando el segundo año de la carrea, también se sobre edición de videos y audio, suelo tener ideas buenas sobre proyectos personales y me concentro mucho para llevarlos a cabo.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
