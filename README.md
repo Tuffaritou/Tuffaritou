@@ -28,7 +28,7 @@ Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de C
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Conocimiento de Editores de Video y Audio </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
