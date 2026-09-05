@@ -52,7 +52,7 @@ Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de C
 <a href="https://www.twitch.tv/valenwerle" >
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
-<a href="https://www.youtube.com/@ValenWerle">
+<a href="https://www.youtube.com/@tuffaro7039">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
