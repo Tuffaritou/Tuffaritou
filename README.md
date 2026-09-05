@@ -30,18 +30,23 @@ Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de C
 
 <h4> Conocimiento de Editores de Video y Audio </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/Sony%20Vegas-000000?style=for-the-badge&logo=vegas&logoColor=white">
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white">
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
+<img src="https://img.shields.io/badge/InShot-FF6B00?style=for-the-badge&logo=inshot&logoColor=white">
+<img src="https://img.shields.io/badge/Filmora-00D4AA?style=for-the-badge&logo=filmora&logoColor=white">
+<img src="https://img.shields.io/badge/FL%20Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white">
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+
 
 
 
 
 </span>
 
-## Check out my Social Media
+## Mis Redes Sociales
 
 <a href= "https://www.instagram.com/facuuundito_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
