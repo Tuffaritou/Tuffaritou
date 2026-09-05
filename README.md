@@ -1,4 +1,4 @@
-## Hola soy Facu 👋
+## Hola soy Facundo Figueredo 👋
 
 Estudio Comunicación Multimedial en el instituto Alan Turing 172
 
