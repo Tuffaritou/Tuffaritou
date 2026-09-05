@@ -9,6 +9,7 @@ Idiomas:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 Conocimiento de programas de edición:
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,)](https://skillicons.dev)
 
 
 
