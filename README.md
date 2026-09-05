@@ -25,7 +25,6 @@ Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de C
 <h4> Conocimiento de Editores de Video y Audio </h4>
 <span>
  <img src="https://img.shields.io/badge/Sony%20Vegas-000000?style=for-the-badge&logo=vegas&logoColor=white">
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 <img src="https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white">
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
 <img src="https://img.shields.io/badge/InShot-FF6B00?style=for-the-badge&logo=inshot&logoColor=white">
@@ -33,6 +32,7 @@ Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de C
 <img src="https://img.shields.io/badge/FL%20Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white">
 <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 
 
 
