@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://www.google.com/search?sca_esv=f57b7925e0d100c0&rlz=1C1CHBF_esAR1117AR1118&sxsrf=APpeQnsyx0yrU_lIjKVIphryYgmhEmI4vQ:1788623408604&udm=2&fbs=ABfTbFUDadgeu2mn4mYJ8iEZ1GUDd8ABuXxNzQEi57SWOuuPdcURz3vM2j0dknRjZr5tESinmr8NkDJcfL_fUVF8RVUJ7RRKmhnHIL5Sfh03OLf-OKu1B1RGr47fqWOb569rw8oZ9T8EgGtHqmm7dotayTZehVuG0N2ACa6ER53RPAgYYPthN1zw3gBe8UcpoxIV02coaEIsW29qS7DrC1Om4KNlrt5LqiCMIPTyZ2Slu-I7UFUbhoQ&q=gif+peque%C3%B1o+de+gato+tipeando+animado&sa=X&ved=2ahUKEwilkKC35deWAxXAmpUCHQyIFNMQtKgLegQIFRAB&biw=1280&bih=641&dpr=1#sv=CAMSURoyKhBlLVNMNmRjM2dBLXM1V0FNMg5TTDZkYzNnQS1zNVdBTToOV2lOMjBpVVFPSHN3bU0gBCoXCgFzEhBlLVNMNmRjM2dBLXM1V0FNGAEwARgHILS-q5ELSggQARgBIAEoAQ" width="30px">&nbsp;***Sobre mi***
 
 Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de Comunicación Multimedial, cursando el segundo año de la carrea, también se sobre edición de videos y audio, suelo tener ideas buenas sobre proyectos personales y me concentro mucho para llevarlos a cabo.
 - 🌱 I’m currently learning ...
