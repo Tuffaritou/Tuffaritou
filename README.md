@@ -4,7 +4,7 @@
 
 ***Sobre mi***
 
-Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de Comunicación Multimedial, cursando el segundo año de la carrea, también se sobre edición de videos y audio, suelo tener ideas buenas sobre proyectos personales y me concentro mucho para llevarlos a cabo.
+Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de Comunicación Multimedial, cursando el segundo año de la carrea, también sé sobre edición de videos y audio, suelo tener ideas buenas sobre proyectos personales y me concentro mucho para llevarlos a cabo. También hago música y me gusta el arte.
 
 - 📫 Mi mail de contacto: <a href="figueredofacuu123@gmail.com">figueredofacuu123@gmail.com</a>
 
