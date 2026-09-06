@@ -52,6 +52,11 @@ Actualmente estoy estudiando en el Instituto Alan Turing 172, en la carrera de C
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
+<a href="https://www.youtube.com/watch?v=kMEbWJSAoRs" target="_blank"> <img src="https://img.shields.io/badge/▶%20ESCUCHAR%20EN%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Escuchar en YouTube"> </a>
+<br><br>
+
+<a href="https://www.youtube.com/watch?v=kMEbWJSAoRs" target="_blank"> <img src="https://img.youtube.com/vi/kMEbWJSAoRs/maxresdefault.jpg" width="500" alt="Último lanzamiento"> </a>
+
 
 
 
